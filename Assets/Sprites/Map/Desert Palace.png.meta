@@ -1,0 +1,3840 @@
+fileFormatVersion: 2
+guid: f940b977005273341b87e385944caf46
+timeCreated: 1445808323
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Palace_01_UL_Corner
+    21300002: Palace_01_U_Wall_1
+    21300004: Desert Palace_2
+    21300006: Desert Palace_3
+    21300008: Desert Palace_4
+    21300010: Palace_01_UR_Corner
+    21300012: Desert Palace_9
+    21300014: Desert Palace_10
+    21300016: Desert Palace_11
+    21300018: Desert Palace_13
+    21300020: Desert Palace_14
+    21300022: Desert Palace_15
+    21300024: Desert Palace_16
+    21300026: Desert Palace_17
+    21300028: Desert Palace_18
+    21300030: Desert Palace_25
+    21300032: Desert Palace_26
+    21300034: Desert Palace_27
+    21300036: Desert Palace_28
+    21300038: Desert Palace_29
+    21300040: Desert Palace_30
+    21300042: Desert Palace_32
+    21300044: Desert Palace_33
+    21300046: Desert Palace_34
+    21300048: Desert Palace_35
+    21300050: Desert Palace_36
+    21300052: Desert Palace_38
+    21300054: Desert Palace_39
+    21300056: Desert Palace_40
+    21300058: Desert Palace_41
+    21300060: Desert Palace_42
+    21300062: Desert Palace_43
+    21300064: Desert Palace_50
+    21300066: Desert Palace_51
+    21300068: Item_Fountain
+    21300070: Item_Pot
+    21300072: Desert Palace_54
+    21300074: Desert Palace_55
+    21300076: Desert Palace_56
+    21300078: Desert Palace_57
+    21300080: Desert Palace_58
+    21300082: Desert Palace_59
+    21300084: Desert Palace_60
+    21300086: Desert Palace_61
+    21300088: Desert Palace_62
+    21300090: Desert Palace_63
+    21300092: Desert Palace_64
+    21300094: Desert Palace_65
+    21300096: Desert Palace_66
+    21300098: Desert Palace_67
+    21300100: Desert Palace_68
+    21300102: Desert Palace_69
+    21300104: Desert Palace_70
+    21300106: Desert Palace_75
+    21300108: Desert Palace_76
+    21300110: Item_Block
+    21300112: Map_Sand
+    21300114: Desert Palace_79
+    21300116: Desert Palace_80
+    21300118: Desert Palace_81
+    21300120: Desert Palace_82
+    21300122: Desert Palace_83
+    21300124: Desert Palace_84
+    21300126: Desert Palace_85
+    21300128: Desert Palace_86
+    21300130: Desert Palace_87
+    21300132: Desert Palace_88
+    21300134: Desert Palace_89
+    21300136: Desert Palace_90
+    21300138: Desert Palace_91
+    21300140: Desert Palace_92
+    21300142: Desert Palace_93
+    21300144: Desert Palace_94
+    21300146: Desert Palace_95
+    21300148: Desert Palace_100
+    21300150: Desert Palace_101
+    21300152: Desert Palace_102
+    21300154: Desert Palace_103
+    21300156: Desert Palace_104
+    21300158: Desert Palace_105
+    21300160: Desert Palace_106
+    21300162: Desert Palace_107
+    21300164: Desert Palace_108
+    21300166: Desert Palace_109
+    21300168: Desert Palace_110
+    21300170: Desert Palace_111
+    21300172: Desert Palace_112
+    21300174: Desert Palace_113
+    21300176: Desert Palace_114
+    21300178: Desert Palace_115
+    21300180: Desert Palace_116
+    21300182: Desert Palace_117
+    21300184: Desert Palace_118
+    21300186: Desert Palace_119
+    21300188: Desert Palace_120
+    21300190: Palace_01_BL_Corner
+    21300192: Desert Palace_126
+    21300194: Desert Palace_127
+    21300196: Desert Palace_128
+    21300198: Desert Palace_129
+    21300200: Palace_01_BR_Corner
+    21300202: Desert Palace_131
+    21300204: Map_Tile_Floor
+    21300206: Desert Palace_133
+    21300208: Desert Palace_134
+    21300210: Desert Palace_135
+    21300212: Desert Palace_136
+    21300214: Desert Palace_137
+    21300216: Desert Palace_138
+    21300218: Desert Palace_139
+    21300220: Desert Palace_140
+    21300222: Desert Palace_141
+    21300224: Desert Palace_142
+    21300226: Desert Palace_143
+    21300228: Desert Palace_144
+    21300230: Desert Palace_145
+    21300232: Desert Palace_146
+    21300234: Desert Palace_147
+    21300236: Palace_02_UL_Corner
+    21300238: Desert Palace_151
+    21300240: Desert Palace_152
+    21300242: Desert Palace_153
+    21300244: Desert Palace_154
+    21300246: Palace_02_UR_Corner
+    21300248: Desert Palace_156
+    21300250: Desert Palace_157
+    21300252: Desert Palace_158
+    21300254: Desert Palace_159
+    21300256: Desert Palace_160
+    21300258: Desert Palace_161
+    21300260: Desert Palace_162
+    21300262: Desert Palace_163
+    21300264: Desert Palace_164
+    21300266: Desert Palace_165
+    21300268: Desert Palace_169
+    21300270: Desert Palace_170
+    21300272: Desert Palace_171
+    21300274: Desert Palace_172
+    21300276: Desert Palace_175
+    21300278: Desert Palace_176
+    21300280: Desert Palace_177
+    21300282: Desert Palace_178
+    21300284: Desert Palace_179
+    21300286: Desert Palace_180
+    21300288: Desert Palace_181
+    21300290: Desert Palace_182
+    21300292: Desert Palace_183
+    21300294: Desert Palace_184
+    21300296: Desert Palace_185
+    21300298: Desert Palace_186
+    21300300: Desert Palace_187
+    21300302: Desert Palace_188
+    21300304: Desert Palace_189
+    21300306: Desert Palace_190
+    21300308: Desert Palace_194
+    21300310: Desert Palace_195
+    21300312: Desert Palace_196
+    21300314: Desert Palace_197
+    21300316: Desert Palace_200
+    21300318: Desert Palace_201
+    21300320: Desert Palace_202
+    21300322: Desert Palace_203
+    21300324: Desert Palace_204
+    21300326: Desert Palace_205
+    21300328: Desert Palace_206
+    21300330: Desert Palace_207
+    21300332: Desert Palace_208
+    21300334: Item_Chest_Open
+    21300336: Desert Palace_210
+    21300338: Desert Palace_211
+    21300340: Desert Palace_212
+    21300342: Desert Palace_213
+    21300344: Desert Palace_214
+    21300346: Desert Palace_215
+    21300348: Desert Palace_216
+    21300350: Desert Palace_217
+    21300352: Desert Palace_218
+    21300354: Desert Palace_225
+    21300356: Desert Palace_226
+    21300358: Desert Palace_227
+    21300360: Desert Palace_228
+    21300362: Desert Palace_229
+    21300364: Desert Palace_230
+    21300366: Desert Palace_231
+    21300368: Desert Palace_232
+    21300370: Desert Palace_233
+    21300372: Desert Palace_234
+    21300374: Item_Chest_Closed
+    21300376: Desert Palace_236
+    21300378: Desert Palace_237
+    21300380: Desert Palace_238
+    21300382: Desert Palace_239
+    21300384: Desert Palace_240
+    21300386: Desert Palace_241
+    21300388: Desert Palace_242
+    21300390: Desert Palace_243
+    21300392: Desert Palace_250
+    21300394: Desert Palace_251
+    21300396: Desert Palace_252
+    21300398: Desert Palace_253
+    21300400: Desert Palace_254
+    21300402: Desert Palace_255
+    21300404: Desert Palace_256
+    21300406: Desert Palace_257
+    21300408: Desert Palace_258
+    21300410: Desert Palace_259
+    21300412: Desert Palace_260
+    21300414: Desert Palace_261
+    21300416: Desert Palace_262
+    21300418: Locked_Door_U1
+    21300420: Locked_Door_U2
+    21300422: Locked_Door_U3
+    21300424: Locked_Door_R1
+    21300426: Locked_Door_R2
+    21300428: Palace_02_BL_Corner
+    21300430: Desert Palace_276
+    21300432: Desert Palace_277
+    21300434: Desert Palace_278
+    21300436: Desert Palace_279
+    21300438: Palace_02_BR_Corner
+    21300440: Desert Palace_281
+    21300442: Desert Palace_282
+    21300444: Desert Palace_283
+    21300446: Desert Palace_284
+    21300448: Desert Palace_285
+    21300450: Desert Palace_286
+    21300452: Desert Palace_287
+    21300454: Locked_Door_U4
+    21300456: Locked_Door_U5
+    21300458: Locked_Door_U6
+    21300460: Locked_Door_R3
+    21300462: Locked_Door_R4
+    21300464: Desert Palace_300
+    21300466: Desert Palace_301
+    21300468: Desert Palace_302
+    21300470: Desert Palace_303
+    21300472: Desert Palace_304
+    21300474: Desert Palace_306
+    21300476: Desert Palace_307
+    21300478: Desert Palace_308
+    21300480: Desert Palace_309
+    21300482: Desert Palace_310
+    21300484: Desert Palace_311
+    21300486: Desert Palace_312
+    21300488: Locked_Door_L1
+    21300490: Locked_Door_L2
+    21300492: Locked_Door_R5
+    21300494: Locked_Door_R6
+    21300496: Desert Palace_325
+    21300498: Desert Palace_326
+    21300500: Desert Palace_327
+    21300502: Desert Palace_328
+    21300504: Desert Palace_329
+    21300506: Desert Palace_331
+    21300508: Desert Palace_332
+    21300510: Desert Palace_333
+    21300512: Desert Palace_334
+    21300514: Desert Palace_335
+    21300516: Desert Palace_336
+    21300518: Desert Palace_337
+    21300520: Locked_Door_L3
+    21300522: Locked_Door_L4
+    21300524: Locked_Door_B1
+    21300526: Locked_Door_B2
+    21300528: Locked_Door_B3
+    21300530: Desert Palace_350
+    21300532: Desert Palace_351
+    21300534: Desert Palace_352
+    21300536: Desert Palace_353
+    21300538: Desert Palace_354
+    21300540: Desert Palace_356
+    21300542: Desert Palace_357
+    21300544: Desert Palace_358
+    21300546: Desert Palace_359
+    21300548: Desert Palace_360
+    21300550: Desert Palace_361
+    21300552: Desert Palace_362
+    21300554: Locked_Door_L5
+    21300556: Locked_Door_L6
+    21300558: Locked_Door_B4
+    21300560: Locked_Door_B5
+    21300562: Locked_Door_B6
+    21300564: Desert Palace_375
+    21300566: Desert Palace_376
+    21300568: Desert Palace_377
+    21300570: Desert Palace_378
+    21300572: Desert Palace_379
+    21300574: Desert Palace_381
+    21300576: Desert Palace_382
+    21300578: Desert Palace_383
+    21300580: Desert Palace_384
+    21300582: Desert Palace_385
+    21300584: Desert Palace_386
+    21300586: Desert Palace_387
+    21300588: Desert Palace_388
+    21300590: Desert Palace_389
+    21300592: Desert Palace_390
+    21300594: Desert Palace_408
+    21300596: Desert Palace_409
+    21300598: Desert Palace_410
+    21300600: Desert Palace_413
+    21300602: Desert Palace_414
+    21300604: Desert Palace_415
+    21300606: Desert Palace_416
+    21300608: Desert Palace_425
+    21300610: Desert Palace_426
+    21300612: Desert Palace_427
+    21300614: Desert Palace_428
+    21300616: Desert Palace_429
+    21300618: Desert Palace_430
+    21300620: Desert Palace_431
+    21300622: Desert Palace_432
+    21300624: Desert Palace_433
+    21300626: Desert Palace_434
+    21300628: Desert Palace_435
+    21300630: Desert Palace_436
+    21300632: Desert Palace_437
+    21300634: Desert Palace_438
+    21300636: Desert Palace_439
+    21300638: Desert Palace_440
+    21300640: Desert Palace_441
+    21300642: Desert Palace_443
+    21300644: Desert Palace_450
+    21300646: Desert Palace_451
+    21300648: Desert Palace_452
+    21300650: Desert Palace_453
+    21300652: Desert Palace_454
+    21300654: Desert Palace_455
+    21300656: Desert Palace_456
+    21300658: Desert Palace_457
+    21300660: Desert Palace_458
+    21300662: Desert Palace_459
+    21300664: Desert Palace_460
+    21300666: Desert Palace_461
+    21300668: Desert Palace_462
+    21300670: Desert Palace_463
+    21300672: Desert Palace_464
+    21300674: Desert Palace_465
+    21300676: Desert Palace_466
+    21300678: Desert Palace_467
+    21300680: Desert Palace_468
+    21300682: Desert Palace_6
+    21300684: Desert Palace_7
+    21300686: Desert Palace_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Palace_01_UL_Corner
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Palace_01_U_Wall_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Palace_01_UR_Corner
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 309
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 309
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_32
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_36
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_38
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 292
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_39
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_40
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 292
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_42
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item_Fountain
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item_Pot
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_55
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_57
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_58
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_59
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_60
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_61
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_63
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_64
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_66
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_67
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_69
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_70
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_76
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item_Block
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Map_Sand
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_82
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_84
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_85
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_86
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_87
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_88
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_89
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_90
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_91
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_92
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_93
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_94
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_95
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_101
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_102
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_103
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_105
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_106
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_107
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_108
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_109
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_110
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_111
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_112
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_113
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_114
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_115
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_116
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_117
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_118
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_119
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_120
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Palace_01_BL_Corner
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_126
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_127
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_128
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_129
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Palace_01_BR_Corner
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_131
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Map_Tile_Floor
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_133
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_134
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_136
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_137
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_138
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_139
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_140
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_141
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_142
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_143
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_144
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_145
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_146
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_147
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Palace_02_UL_Corner
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_151
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_152
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_153
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_154
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Palace_02_UR_Corner
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_156
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_157
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_158
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_159
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_160
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_161
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_162
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_163
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_164
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_165
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_169
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_170
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_171
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_172
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_176
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_177
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_178
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_179
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_180
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_181
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_182
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_183
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_184
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_185
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_186
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_187
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_188
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_189
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_190
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_194
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 189
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_195
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 189
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_196
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 189
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_197
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 189
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_201
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_202
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_203
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_204
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_205
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_206
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_207
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_208
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item_Chest_Open
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_210
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_211
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_212
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_213
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_214
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_215
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_216
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_217
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_218
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_226
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_227
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_228
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_229
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_230
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_231
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_232
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_233
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_234
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item_Chest_Closed
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_236
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_237
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_238
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_239
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_240
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_241
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_242
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_243
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_251
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_252
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_253
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_254
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_255
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_256
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_257
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_258
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_259
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_260
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_261
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_262
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_U1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_U2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_U3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_R1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_R2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Palace_02_BL_Corner
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_276
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_277
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_278
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_279
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Palace_02_BR_Corner
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_281
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_282
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_283
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_284
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_285
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_286
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_287
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_U4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_U5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_U6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_R3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_R4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_301
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_302
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_303
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_304
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_306
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_307
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_308
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_309
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_310
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_311
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_312
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_L1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_L2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_R5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_R6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_325
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_326
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_327
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_328
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_329
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_331
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_332
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_333
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_334
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_335
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_336
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_337
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_L3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_L4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_B1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_B2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_B3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_350
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_351
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_352
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_353
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_354
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_356
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_357
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_358
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_359
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_360
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_361
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_362
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_L5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_L6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_B4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_B5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Locked_Door_B6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_375
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_376
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_377
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_378
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_379
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_381
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_382
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_383
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_384
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_385
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_386
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_387
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_388
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_389
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_390
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_408
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_409
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_410
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_413
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_414
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_415
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_416
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_425
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_426
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_427
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_428
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_429
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_430
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_431
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_432
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_433
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_434
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_435
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_436
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_437
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_438
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_439
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_440
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_441
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 20
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_443
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 20
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_450
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_451
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_452
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_453
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_454
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_455
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_456
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_457
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_458
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_459
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_460
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_461
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_462
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_463
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_464
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_465
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_466
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_467
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_468
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 20
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desert Palace_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
