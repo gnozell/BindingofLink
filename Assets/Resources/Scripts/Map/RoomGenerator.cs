@@ -58,6 +58,20 @@ public class RoomGenerator : MonoBehaviour
 		BottomWalls.name = "Bottom Walls";
 		BottomWalls.transform.SetParent (WallsParent.transform);
 
+		// Create parent for doors
+		GameObject DoorsParent = new GameObject ();
+		DoorsParent.name = "Doors";
+		DoorsParent.transform.SetParent (RoomParent.transform);
+
+		// Random Door position
+		bool SpawnDoor;
+		if(Random.value > 0.5) { SpawnDoor = true; }
+		else { SpawnDoor = false; }
+
+		int DoorWall = (int)Random.Range (0, 4);
+		Vector2 DoorPosition = new Vector2((int) Random.Range(0, RoomSize.x - 3), (int) Random.Range(0, RoomSize.y - 3));
+
+
 		for (int i = 0; i < RoomSize.x; i++) {
 			for(int j = 0; j < RoomSize.y; j++) {
 				// If corner
@@ -69,6 +83,39 @@ public class RoomGenerator : MonoBehaviour
 					CreateTile(FindObjectWithName(MapTiles, "Bottom Left Corner"), new Vector3(-2, -RoomSize.y, 0), CornersParent);
 				if(i == RoomSize.x - 1 && j == RoomSize.y - 1)
 					CreateTile(FindObjectWithName(MapTiles, "Bottom Right Corner"), new Vector3(RoomSize.x, -RoomSize.y, 0), CornersParent);
+
+				// Create Doors
+				// Find out how to delete walls
+				if(true) {
+					if(DoorWall == 0 && j == 0) {
+						// Door is on top wall
+						if( i == DoorPosition.x) {
+							CreateTile(FindObjectWithName(MapTiles, "Locked Door Top"), new Vector3(i, 2, 0), DoorsParent);
+							SpawnDoor = false;
+						}
+					}
+					if(DoorWall == 1 && i == 0) {
+						// Door is on left wall
+						if( j == DoorPosition.y) {
+							CreateTile(FindObjectWithName(MapTiles, "Locked Door Left"), new Vector3(-2, -j, 0), DoorsParent);
+							SpawnDoor = false;
+						}
+					}
+					if(DoorWall == 2 && i == RoomSize.x - 1) {
+						// Door is on right wall
+						if( j == DoorPosition.y) {
+							CreateTile(FindObjectWithName(MapTiles, "Locked Door Right"), new Vector3(RoomSize.x, -j, 0), DoorsParent);
+							SpawnDoor = false;
+						}
+					}
+					if(DoorWall >= 3 && j == RoomSize.y - 1) {
+						// Door is on bottom wall
+						if( i == DoorPosition.x) {
+							CreateTile(FindObjectWithName(MapTiles, "Locked Door Bottom"), new Vector3(i, -RoomSize.y, 0), DoorsParent);
+							SpawnDoor = false;
+						}
+					}
+				}
 
 				// Create Walls
 				if(j == 0)
