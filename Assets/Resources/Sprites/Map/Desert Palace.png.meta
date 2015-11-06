@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: f940b977005273341b87e385944caf46
-timeCreated: 1445808323
+timeCreated: 1446677322
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -89,9 +89,9 @@ TextureImporter:
     21300164: Desert Palace_108
     21300166: Desert Palace_109
     21300168: Desert Palace_110
-    21300170: Desert Palace_111
-    21300172: Desert Palace_112
-    21300174: Desert Palace_113
+    21300170: Open Door Top 1
+    21300172: Open Door Top 2
+    21300174: Open Door Top 3
     21300176: Desert Palace_114
     21300178: Desert Palace_115
     21300180: Desert Palace_116
@@ -108,13 +108,13 @@ TextureImporter:
     21300202: Desert Palace_131
     21300204: Map_Tile_Floor
     21300206: Desert Palace_133
-    21300208: Desert Palace_134
-    21300210: Desert Palace_135
-    21300212: Desert Palace_136
-    21300214: Desert Palace_137
-    21300216: Desert Palace_138
-    21300218: Desert Palace_139
-    21300220: Desert Palace_140
+    21300208: Open Door Left 1
+    21300210: Open Door Left 2
+    21300212: Open Door Top 4
+    21300214: Open Door Top 5
+    21300216: Open Door Top 6
+    21300218: Open Door Right 1
+    21300220: Open Door Right 2
     21300222: Desert Palace_141
     21300224: Desert Palace_142
     21300226: Desert Palace_143
@@ -131,13 +131,13 @@ TextureImporter:
     21300248: Desert Palace_156
     21300250: Desert Palace_157
     21300252: Desert Palace_158
-    21300254: Desert Palace_159
-    21300256: Desert Palace_160
-    21300258: Desert Palace_161
-    21300260: Desert Palace_162
-    21300262: Desert Palace_163
-    21300264: Desert Palace_164
-    21300266: Desert Palace_165
+    21300254: Open Door Left 3
+    21300256: Open Door Left 4
+    21300258: Open Door Bottom 1
+    21300260: Open Door Bottom 2
+    21300262: Open Door Bottom 3
+    21300264: Open Door Right 3
+    21300266: Open Door Right 4
     21300268: Desert Palace_169
     21300270: Desert Palace_170
     21300272: Desert Palace_171
@@ -151,13 +151,13 @@ TextureImporter:
     21300288: Desert Palace_181
     21300290: Desert Palace_182
     21300292: Desert Palace_183
-    21300294: Desert Palace_184
-    21300296: Desert Palace_185
-    21300298: Desert Palace_186
-    21300300: Desert Palace_187
-    21300302: Desert Palace_188
-    21300304: Desert Palace_189
-    21300306: Desert Palace_190
+    21300294: Open Door Left 5
+    21300296: Open Door Left 6
+    21300298: Open Door Bottom 4
+    21300300: Open Door Bottom 5
+    21300302: Open Door Bottom 6
+    21300304: Open Door Right 5
+    21300306: Open Door Right 6
     21300308: Desert Palace_194
     21300310: Desert Palace_195
     21300312: Desert Palace_196
@@ -1244,7 +1244,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_111
+    - name: Open Door Top 1
       rect:
         serializedVersion: 2
         x: 187
@@ -1254,7 +1254,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_112
+    - name: Open Door Top 2
       rect:
         serializedVersion: 2
         x: 204
@@ -1264,7 +1264,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_113
+    - name: Open Door Top 3
       rect:
         serializedVersion: 2
         x: 221
@@ -1434,7 +1434,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_134
+    - name: Open Door Left 1
       rect:
         serializedVersion: 2
         x: 153
@@ -1444,7 +1444,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_135
+    - name: Open Door Left 2
       rect:
         serializedVersion: 2
         x: 170
@@ -1454,7 +1454,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_136
+    - name: Open Door Top 4
       rect:
         serializedVersion: 2
         x: 187
@@ -1464,7 +1464,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_137
+    - name: Open Door Top 5
       rect:
         serializedVersion: 2
         x: 204
@@ -1474,7 +1474,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_138
+    - name: Open Door Top 6
       rect:
         serializedVersion: 2
         x: 221
@@ -1484,7 +1484,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_139
+    - name: Open Door Right 1
       rect:
         serializedVersion: 2
         x: 238
@@ -1494,7 +1494,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_140
+    - name: Open Door Right 2
       rect:
         serializedVersion: 2
         x: 255
@@ -1664,7 +1664,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_159
+    - name: Open Door Left 3
       rect:
         serializedVersion: 2
         x: 153
@@ -1674,7 +1674,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_160
+    - name: Open Door Left 4
       rect:
         serializedVersion: 2
         x: 170
@@ -1684,7 +1684,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_161
+    - name: Open Door Bottom 1
       rect:
         serializedVersion: 2
         x: 187
@@ -1694,7 +1694,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_162
+    - name: Open Door Bottom 2
       rect:
         serializedVersion: 2
         x: 204
@@ -1704,7 +1704,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_163
+    - name: Open Door Bottom 3
       rect:
         serializedVersion: 2
         x: 221
@@ -1714,7 +1714,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_164
+    - name: Open Door Right 3
       rect:
         serializedVersion: 2
         x: 238
@@ -1724,7 +1724,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_165
+    - name: Open Door Right 4
       rect:
         serializedVersion: 2
         x: 255
@@ -1864,7 +1864,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_184
+    - name: Open Door Left 5
       rect:
         serializedVersion: 2
         x: 153
@@ -1874,7 +1874,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_185
+    - name: Open Door Left 6
       rect:
         serializedVersion: 2
         x: 170
@@ -1884,7 +1884,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_186
+    - name: Open Door Bottom 4
       rect:
         serializedVersion: 2
         x: 187
@@ -1894,7 +1894,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_187
+    - name: Open Door Bottom 5
       rect:
         serializedVersion: 2
         x: 204
@@ -1904,7 +1904,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_188
+    - name: Open Door Bottom 6
       rect:
         serializedVersion: 2
         x: 221
@@ -1914,7 +1914,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_189
+    - name: Open Door Right 5
       rect:
         serializedVersion: 2
         x: 238
@@ -1924,7 +1924,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Desert Palace_190
+    - name: Open Door Right 6
       rect:
         serializedVersion: 2
         x: 255
