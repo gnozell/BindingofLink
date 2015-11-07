@@ -3,28 +3,32 @@ using System.Collections;
 
 public class baseEnemy: MonoBehaviour {
 
-    public GameObject player;
+    public string playerName = "link_0";
+    public float health = 3;
 
-    private bool invulnerable;
-    private bool poisoned;
+    protected GameObject player;
 
-    private float health;
+    protected bool invulnerable;
+    protected bool poisoned;
+    protected bool slowed;
+    protected bool frozen;
+    protected bool burned;
 
     // Use this for initialization
-    void Start () {
-	
-	}
-
-    void OnCollisionEnter2D(Collision2D other){
+    public virtual void Start () {
+        player = GameObject.Find(playerName);
 
     }
 
-    void OnCollisionStay2D(Collision2D other){
-
+    public virtual void OnDeath() {
+        Destroy(gameObject);
     }
 
 	// Update is called once per frame
-	void Update () {
+	public virtual void FixedUpdate() {
+        if (health <= 0) {
+            OnDeath();
+        }
 	
 	}
 }
