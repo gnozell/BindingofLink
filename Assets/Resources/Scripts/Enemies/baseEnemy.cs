@@ -1,9 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class baseEnemy: MonoBehaviour {
+public class baseEnemy : MonoBehaviour
+{
 
-    public string playerName = "link_0";
+    public string playerName = "player";
     public float health = 3;
 
     protected GameObject player;
@@ -15,20 +16,24 @@ public class baseEnemy: MonoBehaviour {
     protected bool burned;
 
     // Use this for initialization
-    public virtual void Start () {
+    public virtual void Start()
+    {
         player = GameObject.Find(playerName);
 
     }
 
-    public virtual void OnDeath() {
+    public virtual void OnDeath()
+    {
         Destroy(gameObject);
     }
 
-	// Update is called once per frame
-	public virtual void FixedUpdate() {
-        if (health <= 0) {
+    // Update is called once per frame
+    public virtual void FixedUpdate()
+    {
+        if (health <= 0)
+        {
             OnDeath();
         }
-	
-	}
+
+    }
 }
