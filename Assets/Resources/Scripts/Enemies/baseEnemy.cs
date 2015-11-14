@@ -6,6 +6,7 @@ public class baseEnemy : MonoBehaviour
 
     public string playerName = "player";
     public float health = 3;
+	public Color tint = Color.white;
 
     protected GameObject player;
 
@@ -19,6 +20,7 @@ public class baseEnemy : MonoBehaviour
     public virtual void Start()
     {
         player = GameObject.Find(playerName);
+		GetComponent<SpriteRenderer> ().color = tint;
 
     }
 

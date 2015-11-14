@@ -37,9 +37,9 @@ public class burrow : baseEnemy {
 		state = "wait";
 
 		waitTimer = 1f;
-		buildingTimer = 2f;
-		chargeTimer = 5f;
-		dugTimer = 3f;
+		buildingTimer = 1f;
+		chargeTimer = 2f;
+		dugTimer = 1.5f;
 
 		currentTimer = waitTimer;
 	
