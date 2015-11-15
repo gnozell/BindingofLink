@@ -31,19 +31,31 @@ public class PlayerMove : MonoBehaviour {
 			playerAnim.SetBool ("idle", true);
 		}
 
-		if (hor < 0) {
-			playerAnim.SetBool ("going_left", true);
-			playerAnim.SetBool ("idle", false);
-		} else if (hor > 0) {
-			playerAnim.SetBool ("going_right", true);
-			playerAnim.SetBool ("idle", false);
-		}
-
 		if (vert < 0) {
+			playerAnim.SetBool ("going_up", false);
 			playerAnim.SetBool ("going_down", true);
+			playerAnim.SetBool ("going_left", false);
+			playerAnim.SetBool ("going_right", false);
 			playerAnim.SetBool ("idle", false);
 		} else if (vert > 0) {
 			playerAnim.SetBool ("going_up", true);
+			playerAnim.SetBool ("going_down", false);
+			playerAnim.SetBool ("going_left", false);
+			playerAnim.SetBool ("going_right", false);
+			playerAnim.SetBool ("idle", false);
+		}
+
+		if (hor < 0) {
+			playerAnim.SetBool ("going_up", false);
+			playerAnim.SetBool ("going_down", false);
+			playerAnim.SetBool ("going_left", true);
+			playerAnim.SetBool ("going_right", false);
+			playerAnim.SetBool ("idle", false);
+		} else if (hor > 0) {
+			playerAnim.SetBool ("going_up", false);
+			playerAnim.SetBool ("going_down", false);
+			playerAnim.SetBool ("going_left", false);
+			playerAnim.SetBool ("going_right", true);
 			playerAnim.SetBool ("idle", false);
 		}
 
