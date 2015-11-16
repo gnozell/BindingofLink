@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: b9646457c86d6a0408b276d542202005
+timeCreated: 1447632048
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - The Legend of Zelda A Link to the Past - Items Overworld_0
+    21300002: SNES - The Legend of Zelda A Link to the Past - Items Overworld_1
+    21300004: SNES - The Legend of Zelda A Link to the Past - Items Overworld_2
+    21300006: SNES - The Legend of Zelda A Link to the Past - Items Overworld_3
+    21300008: SNES - The Legend of Zelda A Link to the Past - Items Overworld_4
+    21300010: SNES - The Legend of Zelda A Link to the Past - Items Overworld_5
+    21300012: SNES - The Legend of Zelda A Link to the Past - Items Overworld_6
+    21300014: SNES - The Legend of Zelda A Link to the Past - Items Overworld_7
+    21300016: SNES - The Legend of Zelda A Link to the Past - Items Overworld_8
+    21300018: SNES - The Legend of Zelda A Link to the Past - Items Overworld_9
+    21300020: SNES - The Legend of Zelda A Link to the Past - Items Overworld_10
+    21300022: SNES - The Legend of Zelda A Link to the Past - Items Overworld_11
+    21300024: SNES - The Legend of Zelda A Link to the Past - Items Overworld_12
+    21300026: SNES - The Legend of Zelda A Link to the Past - Items Overworld_13
+    21300028: SNES - The Legend of Zelda A Link to the Past - Items Overworld_14
+    21300030: SNES - The Legend of Zelda A Link to the Past - Items Overworld_15
+    21300032: SNES - The Legend of Zelda A Link to the Past - Items Overworld_16
+    21300034: SNES - The Legend of Zelda A Link to the Past - Items Overworld_17
+    21300036: SNES - The Legend of Zelda A Link to the Past - Items Overworld_18
+    21300038: SNES - The Legend of Zelda A Link to the Past - Items Overworld_19
+    21300040: SNES - The Legend of Zelda A Link to the Past - Items Overworld_20
+    21300042: SNES - The Legend of Zelda A Link to the Past - Items Overworld_21
+    21300044: SNES - The Legend of Zelda A Link to the Past - Items Overworld_22
+    21300046: SNES - The Legend of Zelda A Link to the Past - Items Overworld_23
+    21300048: SNES - The Legend of Zelda A Link to the Past - Items Overworld_24
+    21300050: SNES - The Legend of Zelda A Link to the Past - Items Overworld_25
+    21300052: SNES - The Legend of Zelda A Link to the Past - Items Overworld_26
+    21300054: SNES - The Legend of Zelda A Link to the Past - Items Overworld_27
+    21300056: SNES - The Legend of Zelda A Link to the Past - Items Overworld_28
+    21300058: SNES - The Legend of Zelda A Link to the Past - Items Overworld_29
+    21300060: SNES - The Legend of Zelda A Link to the Past - Items Overworld_30
+    21300062: SNES - The Legend of Zelda A Link to the Past - Items Overworld_31
+    21300064: SNES - The Legend of Zelda A Link to the Past - Items Overworld_32
+    21300066: SNES - The Legend of Zelda A Link to the Past - Items Overworld_33
+    21300068: SNES - The Legend of Zelda A Link to the Past - Items Overworld_34
+    21300070: SNES - The Legend of Zelda A Link to the Past - Items Overworld_35
+    21300072: SNES - The Legend of Zelda A Link to the Past - Items Overworld_36
+    21300074: SNES - The Legend of Zelda A Link to the Past - Items Overworld_37
+    21300076: SNES - The Legend of Zelda A Link to the Past - Items Overworld_38
+    21300078: SNES - The Legend of Zelda A Link to the Past - Items Overworld_39
+    21300080: SNES - The Legend of Zelda A Link to the Past - Items Overworld_40
+    21300082: SNES - The Legend of Zelda A Link to the Past - Items Overworld_41
+    21300084: SNES - The Legend of Zelda A Link to the Past - Items Overworld_42
+    21300086: SNES - The Legend of Zelda A Link to the Past - Items Overworld_43
+    21300088: SNES - The Legend of Zelda A Link to the Past - Items Overworld_44
+    21300090: SNES - The Legend of Zelda A Link to the Past - Items Overworld_45
+    21300092: SNES - The Legend of Zelda A Link to the Past - Items Overworld_46
+    21300094: SNES - The Legend of Zelda A Link to the Past - Items Overworld_47
+    21300096: SNES - The Legend of Zelda A Link to the Past - Items Overworld_48
+    21300098: SNES - The Legend of Zelda A Link to the Past - Items Overworld_49
+    21300100: SNES - The Legend of Zelda A Link to the Past - Items Overworld_50
+    21300102: SNES - The Legend of Zelda A Link to the Past - Items Overworld_51
+    21300104: SNES - The Legend of Zelda A Link to the Past - Items Overworld_52
+    21300106: SNES - The Legend of Zelda A Link to the Past - Items Overworld_53
+    21300108: SNES - The Legend of Zelda A Link to the Past - Items Overworld_54
+    21300110: SNES - The Legend of Zelda A Link to the Past - Items Overworld_55
+    21300112: SNES - The Legend of Zelda A Link to the Past - Items Overworld_56
+    21300114: SNES - The Legend of Zelda A Link to the Past - Items Overworld_57
+    21300116: SNES - The Legend of Zelda A Link to the Past - Items Overworld_58
+    21300118: SNES - The Legend of Zelda A Link to the Past - Items Overworld_59
+    21300120: SNES - The Legend of Zelda A Link to the Past - Items Overworld_60
+    21300122: SNES - The Legend of Zelda A Link to the Past - Items Overworld_61
+    21300124: SNES - The Legend of Zelda A Link to the Past - Items Overworld_62
+    21300126: SNES - The Legend of Zelda A Link to the Past - Items Overworld_63
+    21300128: SNES - The Legend of Zelda A Link to the Past - Items Overworld_64
+    21300130: SNES - The Legend of Zelda A Link to the Past - Items Overworld_65
+    21300132: SNES - The Legend of Zelda A Link to the Past - Items Overworld_66
+    21300134: SNES - The Legend of Zelda A Link to the Past - Items Overworld_67
+    21300136: SNES - The Legend of Zelda A Link to the Past - Items Overworld_68
+    21300138: SNES - The Legend of Zelda A Link to the Past - Items Overworld_69
+    21300140: SNES - The Legend of Zelda A Link to the Past - Items Overworld_70
+    21300142: SNES - The Legend of Zelda A Link to the Past - Items Overworld_71
+    21300144: SNES - The Legend of Zelda A Link to the Past - Items Overworld_72
+    21300146: SNES - The Legend of Zelda A Link to the Past - Items Overworld_73
+    21300148: SNES - The Legend of Zelda A Link to the Past - Items Overworld_74
+    21300150: SNES - The Legend of Zelda A Link to the Past - Items Overworld_75
+    21300152: SNES - The Legend of Zelda A Link to the Past - Items Overworld_76
+    21300154: SNES - The Legend of Zelda A Link to the Past - Items Overworld_77
+    21300156: SNES - The Legend of Zelda A Link to the Past - Items Overworld_78
+    21300158: SNES - The Legend of Zelda A Link to the Past - Items Overworld_79
+    21300160: SNES - The Legend of Zelda A Link to the Past - Items Overworld_80
+    21300162: SNES - The Legend of Zelda A Link to the Past - Items Overworld_81
+    21300164: SNES - The Legend of Zelda A Link to the Past - Items Overworld_82
+    21300166: SNES - The Legend of Zelda A Link to the Past - Items Overworld_83
+    21300168: SNES - The Legend of Zelda A Link to the Past - Items Overworld_84
+    21300170: SNES - The Legend of Zelda A Link to the Past - Items Overworld_85
+    21300172: SNES - The Legend of Zelda A Link to the Past - Items Overworld_86
+    21300174: SNES - The Legend of Zelda A Link to the Past - Items Overworld_87
+    21300176: SNES - The Legend of Zelda A Link to the Past - Items Overworld_88
+    21300178: SNES - The Legend of Zelda A Link to the Past - Items Overworld_112
+    21300180: SNES - The Legend of Zelda A Link to the Past - Items Overworld_113
+    21300182: SNES - The Legend of Zelda A Link to the Past - Items Overworld_114
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 128
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 128
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 129
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 128
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 128
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 129
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 128
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 128
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 128
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 129
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 129
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 128
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 129
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 129
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_19
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_20
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_22
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_23
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 104
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 104
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 104
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 105
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 104
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 104
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_38
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_41
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_42
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_43
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_44
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_45
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_46
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 104
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_48
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 104
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_49
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_50
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 104
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 80
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_52
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 80
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_53
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 80
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_54
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 80
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 80
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_56
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 80
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_61
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 81
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_62
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 81
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_63
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_65
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_66
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_67
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_68
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_69
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 80
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_70
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_71
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_72
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_73
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_74
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_76
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_77
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 48
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_78
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 48
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 49
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_80
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_81
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_82
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_83
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 54
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_84
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 54
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_85
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 53
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_86
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_87
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 54
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_88
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 53
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_112
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_113
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_114
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
