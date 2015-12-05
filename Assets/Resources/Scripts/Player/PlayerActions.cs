@@ -3,6 +3,7 @@ using System.Collections;
 
 public class PlayerActions : MonoBehaviour {
 
+	public GameObject bomb;
 	private PlayerItems m_Items;
 
 	void Start() {
@@ -18,6 +19,14 @@ public class PlayerActions : MonoBehaviour {
 				other.gameObject.GetComponent<DoorActions>().ChangeState();
 				m_Items.useKey();
 			}
+		}
+	}
+
+	public void Update(){
+		if ((Input.GetButtonDown ("Submit")) &(m_Items.getBombs() > 0) ) {
+			m_Items.useBomb();
+			Instantiate(bomb, transform.position, Quaternion.identity);
+
 		}
 	}
 }

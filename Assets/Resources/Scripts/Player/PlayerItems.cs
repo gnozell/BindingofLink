@@ -7,19 +7,26 @@ public class PlayerItems : MonoBehaviour {
 	public int startKeys = 0;
 	public int startCoins = 0;
 	public int startBombs = 1;
+	public float startHealth = 3;
 
 	public Text coinCounter;
 	public Text bombsCounter;
 	public Text keysCounter;
 
+	public GameObject heart_panel;
+
 	private int keys;
 	private int coins;
 	private int bombs;
+	private float health;
+	private float health_container;
 
 	public void Start(){
 		keys = startKeys;
 		coins = startCoins;
 		bombs = startBombs;
+		health = startHealth;
+		health_container = startHealth;
 
 		if (keys > 99){
 			keys = 99;
@@ -51,6 +58,23 @@ public class PlayerItems : MonoBehaviour {
 		} else if(bombsCounter != null){
 			bombsCounter.text = bombs.ToString();
 		}
+
+		for (int heart_coun = 1; heart_coun < 17; heart_coun ++) {
+			RectTransform heart = (RectTransform) heart_panel.transform.FindChild("heart" + heart_coun.ToString());
+			heart.GetComponent<Image>().enabled = false;
+		}
+
+		//*
+
+
+		for (int heart_counter = 1; heart_counter <= health_container; heart_counter ++) {
+			RectTransform heart = (RectTransform) heart_panel.transform.FindChild("heart" + heart_counter.ToString());
+			heart.GetComponent<Image>().enabled = true;
+			//Debug.Log ();
+		} 
+
+		//*/
+
 	}
 
 	//=========
@@ -83,6 +107,56 @@ public class PlayerItems : MonoBehaviour {
 		} else if(keysCounter != null){
 			keysCounter.text = keys.ToString();
 		}
+	}
+
+	//============
+
+
+	public bool isDead(){
+		if (health <= 0) {
+			return true;
+		}
+		return false;
+	}
+
+	public float getHealth(){
+		return health;
+	}
+
+	public bool willKill(float dmg){
+		if((health - (dmg - (dmg % .5f)) <= 0)){
+			return true;
+		}
+		return false;
+	}
+
+	public bool willHeal(float hp){
+		if((health + (hp - (hp % .5f)) >= health_container)){
+			return true;
+		}
+		return false;
+	}
+
+	public void takeDamage(float dmg){
+		// damage is taken in .5's and will round down the number entered
+		health -= (dmg - (dmg % .5f));
+
+		for (float heart_counter = health + 1; heart_counter <= health_container; heart_counter ++) {
+			RectTransform heart = (RectTransform) heart_panel.transform.FindChild("heart" + heart_counter.ToString());
+			heart.GetComponent<Image>().color = Color.black;
+		} 
+
+	}
+
+
+
+	public void giveHealth(float hp){
+		// health is given in .5's and will round down the number entered
+		health += (hp - (hp % .5f));
+		for (float heart_counter = 1; heart_counter <= health_container; heart_counter ++) {
+			RectTransform heart = (RectTransform) heart_panel.transform.FindChild("heart" + heart_counter.ToString());
+			heart.GetComponent<Image>().color = Color.white;
+		} 
 	}
 
 	//=========
