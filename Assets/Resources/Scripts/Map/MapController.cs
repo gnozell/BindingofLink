@@ -17,4 +17,29 @@ public class MapController : MonoBehaviour {
 			MapTiles.Add(obj.name, obj);
 		}
 	}
+
+	List<GameObject> GetNeighbors(Vector3 pos) {
+		List<GameObject> list = new List<GameObject>();
+		GameObject temp;
+		
+		if(temp = GetRoom(pos + new Vector3(0, 9, 0))) { list.Add(temp); }
+		if(temp = GetRoom(pos + new Vector3(0, -9, 0))) { list.Add(temp); }
+		if(temp = GetRoom(pos + new Vector3(15, 0, 0))) { list.Add(temp); }
+		if(temp = GetRoom(pos + new Vector3(-15, 0, 0))) { list.Add(temp); }
+		
+		return list;
+	}
+	
+	// Returns the room at pos, or null if there is none there
+	GameObject GetRoom(Vector3 pos) {
+		GameObject[] rooms = GameObject.FindGameObjectsWithTag ("Room");
+		
+		foreach (GameObject obj in rooms) {
+			if(pos.x == obj.transform.position.x &&
+			   pos.y == obj.transform.position.y)
+				return obj;
+		}
+		
+		return null;
+	}
 }

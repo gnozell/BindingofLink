@@ -14,8 +14,10 @@ public class PlayerActions : MonoBehaviour {
 		if (Input.GetButtonDown ("Action")) {
 			// If colliding with a door
 			if (other.gameObject.CompareTag ("Door") && m_Items.Keys > 0) {
-				// If colliding with door
+				// Open door door
 				other.gameObject.GetComponent<DoorActions>().ChangeState();
+
+				// Take away a key
 				m_Items.Keys--;
 			}
 		}
