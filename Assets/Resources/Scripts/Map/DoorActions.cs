@@ -5,7 +5,7 @@ public class DoorActions : MonoBehaviour {
 
 	public string message;
 
-	public string m_Name;
+	private string m_Name;
 	private MapController m_Controller;
 
 	// Use this for initialization
