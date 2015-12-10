@@ -19,11 +19,17 @@ public class bombController : MonoBehaviour {
 				BoxCollider2D temp = (BoxCollider2D) touching[count];
 				if(temp.tag == "Player"){
 					temp.GetComponent<PlayerItems>().takeDamage(1);
+					//temp.GetComponent<Rigidbody2D>().AddForce(new Vector2(10, 10)*50);
 				}
 
-				if(temp.tag == "Enemy"){
+				else if(temp.tag == "Enemy"){
 					temp.GetComponent<baseEnemy>().takeDamage(1);
 				}
+
+				else if(temp.tag == "Droppable"){
+					//temp.GetComponent<Rigidbody2D>().AddForce(new Vector2(10, 10)*50);
+				}
+
 			}
 		}
 	}
@@ -43,6 +49,5 @@ public class bombController : MonoBehaviour {
 		if (touching.Contains (other)) {
 			touching.Remove(other);
 		}
-		
 	}
 }

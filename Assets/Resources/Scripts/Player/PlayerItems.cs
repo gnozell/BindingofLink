@@ -21,12 +21,37 @@ public class PlayerItems : MonoBehaviour {
 	private float health;
 	private float health_container;
 
+	public float invulnerable_length = 1.5f;
+	private float invulnerable_time;
+	private bool invulnerable;
+
+	public void FixedUpdate(){
+		if (invulnerable_time >= 0) {
+			invulnerable = true;
+			if(GetComponent<SpriteRenderer> ().color == Color.white){
+				GetComponent<SpriteRenderer> ().color = Color.red;
+			}
+			else if(GetComponent<SpriteRenderer> ().color == Color.red){
+				GetComponent<SpriteRenderer> ().color = Color.white;
+			}
+
+
+		} else {
+			invulnerable = false;
+			GetComponent<SpriteRenderer> ().color = Color.white;
+		}
+
+		invulnerable_time -= Time.deltaTime;
+
+	}
+
 	public void Start(){
 		keys = startKeys;
 		coins = startCoins;
 		bombs = startBombs;
 		health = startHealth;
 		health_container = startHealth;
+		
 
 		if (keys > 99){
 			keys = 99;
@@ -111,6 +136,14 @@ public class PlayerItems : MonoBehaviour {
 
 	//============
 
+	public bool is_invulnerable(){
+		return invulnerable;
+	}
+
+	public void make_invulnerable(){
+		invulnerable_time = invulnerable_length;
+	}
+
 
 	public bool isDead(){
 		if (health <= 0) {
@@ -131,20 +164,22 @@ public class PlayerItems : MonoBehaviour {
 	}
 
 	public bool willHeal(float hp){
-		if((health + (hp - (hp % .5f)) >= health_container)){
+		if(health < health_container){
 			return true;
 		}
 		return false;
 	}
 
-	public void takeDamage(float dmg){
+	public void takeDamage(float dmg, bool truedmg=false){
 		// damage is taken in .5's and will round down the number entered
-		health -= (dmg - (dmg % .5f));
-
-		for (float heart_counter = health + 1; heart_counter <= health_container; heart_counter ++) {
-			RectTransform heart = (RectTransform) heart_panel.transform.FindChild("heart" + heart_counter.ToString());
-			heart.GetComponent<Image>().color = Color.black;
-		} 
+		if ((!invulnerable) | truedmg) {
+			health -= (dmg - (dmg % .5f));
+			make_invulnerable ();
+			for (float heart_counter = health + 1; heart_counter <= health_container; heart_counter ++) {
+				RectTransform heart = (RectTransform)heart_panel.transform.FindChild ("heart" + heart_counter.ToString ());
+				heart.GetComponent<Image> ().color = Color.black;
+			} 
+		}
 
 	}
 
@@ -153,7 +188,11 @@ public class PlayerItems : MonoBehaviour {
 	public void giveHealth(float hp){
 		// health is given in .5's and will round down the number entered
 		health += (hp - (hp % .5f));
-		for (float heart_counter = 1; heart_counter <= health_container; heart_counter ++) {
+		if (health > health_container) {
+			health = health_container;
+		}
+
+		for (float heart_counter = 1; heart_counter <= health; heart_counter ++) {
 			RectTransform heart = (RectTransform) heart_panel.transform.FindChild("heart" + heart_counter.ToString());
 			heart.GetComponent<Image>().color = Color.white;
 		} 

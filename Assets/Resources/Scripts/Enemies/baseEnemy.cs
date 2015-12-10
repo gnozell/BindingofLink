@@ -56,6 +56,12 @@ public class baseEnemy : MonoBehaviour
 		health += (hp - (hp % .5f));
 	}
 
+	void OnCollisionStay2D (Collision2D other) {
+		if(other.gameObject.tag == "Player"){
+			other.gameObject.GetComponent<PlayerItems>().takeDamage(1);
+		}
+	}
+
     public virtual void OnDeath()
     {
         Destroy(gameObject);
