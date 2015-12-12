@@ -3,11 +3,17 @@ using System.Collections;
 
 public class PlayerMove : MonoBehaviour {
 
-	public float speed = 10f;
+	public float speed = 40f;
+
+	public Canvas pauseMenu;
 
 	private Rigidbody2D playerRb2D;
 	private Animator playerAnim;
 	private PlayerItems m_Items;
+
+
+
+	private bool is_paused = false;
 
 
 
@@ -19,7 +25,22 @@ public class PlayerMove : MonoBehaviour {
 	}
 
 	// Update is called once per frame
-	void FixedUpdate () {
+	void Update () {
+		if (Input.GetButtonDown("Pause")){
+			is_paused = !is_paused;
+			if (is_paused) {
+				pauseMenu.GetComponent<UIController>().pause();
+			} else {
+				pauseMenu.GetComponent<UIController>().unpause();
+			}
+		}
+
+
+
+
+		//Debug.Log (paused);
+
+
 		float hor = Input.GetAxis ("Horizontal");
 		float vert = Input.GetAxis ("Vertical");
 
@@ -62,7 +83,7 @@ public class PlayerMove : MonoBehaviour {
 		} else {
 			//This moves him
 			playerAnim.SetBool ("attacking", false);
-			playerRb2D.AddForce(new Vector2(hor, vert)*speed);
+			playerRb2D.AddForce(new Vector2(hor*speed, vert*speed));
 
 			// sets his animation
 			if (hor == 0 && vert == 0) {

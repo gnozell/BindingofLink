@@ -89,16 +89,10 @@ public class PlayerItems : MonoBehaviour {
 			heart.GetComponent<Image>().enabled = false;
 		}
 
-		//*
-
-
 		for (int heart_counter = 1; heart_counter <= health_container; heart_counter ++) {
 			RectTransform heart = (RectTransform) heart_panel.transform.FindChild("heart" + heart_counter.ToString());
 			heart.GetComponent<Image>().enabled = true;
-			//Debug.Log ();
 		} 
-
-		//*/
 
 	}
 

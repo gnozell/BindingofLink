@@ -7,6 +7,7 @@ public class baseEnemy : MonoBehaviour
     public string playerName = "player";
     public float startingHealth = 3;
 	public Color tint = Color.white;
+	public float injuredTime = 1f;
 
     protected GameObject player;
 
@@ -17,6 +18,8 @@ public class baseEnemy : MonoBehaviour
     protected bool burned;
 
 	protected float health;
+
+	protected float injured_timer = 0;
 
     // Use this for initialization
     public virtual void Start()
@@ -48,6 +51,7 @@ public class baseEnemy : MonoBehaviour
 	public void takeDamage(float dmg){
 		// damage is taken in .5's and will round down the number entered
 		health -= (dmg - (dmg % .5f));
+		injured_timer = injuredTime;
 		
 	}
 	
@@ -74,6 +78,23 @@ public class baseEnemy : MonoBehaviour
         {
             OnDeath();
         }
+
+		// enemy flashes red and normal when it takes damage
+		if (injured_timer >= 0) {
+			if(GetComponent<SpriteRenderer> ().color == Color.white){
+				GetComponent<SpriteRenderer> ().color = Color.red;
+			}
+			else if(GetComponent<SpriteRenderer> ().color == Color.red){
+				GetComponent<SpriteRenderer> ().color = Color.white;
+			}
+
+		} else {
+			if(GetComponent<SpriteRenderer> ().color == Color.red){
+				GetComponent<SpriteRenderer> ().color = Color.white;
+			}
+		}
+		
+		injured_timer -= Time.deltaTime;
 
     }
 }

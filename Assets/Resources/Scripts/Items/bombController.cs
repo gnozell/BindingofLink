@@ -15,11 +15,15 @@ public class bombController : MonoBehaviour {
 
 	void OnDestroy () {
 		for(int count = 0; count < touching.Count; count++ ){
-			if (touching[count] is BoxCollider2D){
-				BoxCollider2D temp = (BoxCollider2D) touching[count];
+
+			if ((touching[count] != null)&(touching[count] is Collider2D)){
+				Collider2D temp = (Collider2D) touching[count];
+
+				Vector2 blowback = (temp.transform.position - this.transform.position);
+			
+
 				if(temp.tag == "Player"){
 					temp.GetComponent<PlayerItems>().takeDamage(1);
-					//temp.GetComponent<Rigidbody2D>().AddForce(new Vector2(10, 10)*50);
 				}
 
 				else if(temp.tag == "Enemy"){
@@ -28,6 +32,10 @@ public class bombController : MonoBehaviour {
 
 				else if(temp.tag == "Droppable"){
 					//temp.GetComponent<Rigidbody2D>().AddForce(new Vector2(10, 10)*50);
+				}
+
+				if(temp.GetComponent<Rigidbody2D>() != null){
+					temp.GetComponent<Rigidbody2D>().AddForce(blowback*700);
 				}
 
 			}

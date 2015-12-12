@@ -24,10 +24,14 @@ public class PlayerActions : MonoBehaviour {
 	}
 
 	public void Update(){
+
+
 		if ((Input.GetButtonDown ("Submit")) &(m_Items.getBombs() > 0) ) {
 			m_Items.useBomb();
 			Instantiate(bomb, transform.position, Quaternion.identity);
 
 		}
+
+
 	}
 }
