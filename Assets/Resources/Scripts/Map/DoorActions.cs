@@ -28,7 +28,7 @@ public class DoorActions : MonoBehaviour {
 
 	public void ChangeState() {
 		if (m_Controller == null) {
-			m_Controller = GameObject.FindGameObjectWithTag ("Map Controller").GetComponent<MapController> ();
+			//m_Controller = GameObject.FindGameObjectWithTag ("Map Controller").GetComponent<MapController> ();
 		}
 
 		CheckName ();
@@ -36,8 +36,8 @@ public class DoorActions : MonoBehaviour {
 		// Get the door's current state
 		if (gameObject.name.Contains ("Locked")) {
 			// Open door 
-			GameObject newDoor = (GameObject) Instantiate(m_Controller.MapTiles["Open Door " + m_Name], gameObject.transform.position, gameObject.transform.rotation);
-			newDoor.transform.SetParent(gameObject.transform.parent);
+			//GameObject newDoor = (GameObject) Instantiate(m_Controller.MapTiles["Open Door " + m_Name], gameObject.transform.position, gameObject.transform.rotation);
+			//newDoor.transform.SetParent(gameObject.transform.parent);
 
 			// Create a new room
 
@@ -46,8 +46,8 @@ public class DoorActions : MonoBehaviour {
 			Destroy(gameObject);
 		} else if(gameObject.name.Contains("Open")) {
 			// Close door
-			GameObject newDoor = (GameObject) Instantiate(m_Controller.MapTiles["Locked Door " + m_Name], gameObject.transform.position, gameObject.transform.rotation);
-			newDoor.transform.SetParent(gameObject.transform.parent);
+			//GameObject newDoor = (GameObject) Instantiate(m_Controller.MapTiles["Locked Door " + m_Name], gameObject.transform.position, gameObject.transform.rotation);
+			//newDoor.transform.SetParent(gameObject.transform.parent);
 
 			// Destroy current object
 			Destroy(gameObject);

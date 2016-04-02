@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: f8f3ced89033acc4f828557b8ed5a14e
+timeCreated: 1451509924
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hotel_0
+    21300002: hotel_1
+    21300004: hotel_2
+    21300006: hotel_3
+    21300008: hotel_4
+    21300010: hotel_5
+    21300012: hotel_6
+    21300014: hotel_7
+    21300016: hotel_8
+    21300018: hotel_9
+    21300020: hotel_10
+    21300022: hotel_11
+    21300024: hotel_12
+    21300026: hotel_13
+    21300028: hotel_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hotel_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 55
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 55
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 55
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 55
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 55
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 55
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 55
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 55
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 55
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 28
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 28
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 28
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 28
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 28
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
